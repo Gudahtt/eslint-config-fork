@@ -1,4 +1,4 @@
-# `@metamask/eslint-config`
+# `@gudahtt/eslint-config`
 
 MetaMask's base ESLint configuration.
 
@@ -8,7 +8,7 @@ Our default export contains a base set of ESLint rules for ES6+:
 
 ```bash
 yarn add --dev \
-    @metamask/eslint-config@^11.0.0 \
+    @gudahtt/eslint-config@^11.0.0 \
     eslint@^8.27.0 \
     eslint-config-prettier@^8.5.0 \
     eslint-plugin-import@^2.26.0 \
@@ -19,14 +19,14 @@ yarn add --dev \
 
 The order in which you extend ESLint rules matters.
 The `@metamask/*` eslint configs should be added to the `extends` array _last_,
-with `@metamask/eslint-config` first, and `@metamask/eslint-config-*` in any
+with `@gudahtt/eslint-config` first, and `@metamask/eslint-config-*` in any
 order thereafter.
 
 ```js
 module.exports = {
   extends: [
     // This should be added last unless you know what you're doing.
-    '@metamask/eslint-config',
+    '@gudahtt/eslint-config',
   ],
 };
 ```

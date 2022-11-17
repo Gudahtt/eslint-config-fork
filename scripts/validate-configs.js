@@ -10,7 +10,7 @@ const pathUtils = require('path');
 const prettier = require('prettier');
 
 // For config parsing, validation, and rule flattening
-const BASE_CONFIG_NAME = '@metamask/eslint-config';
+const BASE_CONFIG_NAME = '@gudahtt/eslint-config';
 const ESLINT_RECOMMENDED = 'eslint:recommended';
 const RULES = 'rules';
 const OFF = 'off';

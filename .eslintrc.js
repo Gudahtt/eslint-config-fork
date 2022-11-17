@@ -6,9 +6,9 @@ module.exports = {
   },
 
   extends: [
-    '@metamask/eslint-config',
-    '@metamask/eslint-config-nodejs',
-    '@metamask/eslint-config-jest',
+    '@gudahtt/eslint-config',
+    '@gudahtt/eslint-config-nodejs',
+    '@gudahtt/eslint-config-jest',
   ],
 
   rules: {

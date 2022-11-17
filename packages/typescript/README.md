@@ -1,4 +1,4 @@
-# `@metamask/eslint-config-typescript`
+# `@gudahtt/eslint-config-typescript`
 
 MetaMask's [TypeScript](https://www.typescriptlang.org) ESLint configuration.
 
@@ -6,8 +6,8 @@ MetaMask's [TypeScript](https://www.typescriptlang.org) ESLint configuration.
 
 ```bash
 yarn add --dev \
-    @metamask/eslint-config@^11.0.0 \
-    @metamask/eslint-config-typescript@^11.0.0 \
+    @gudahtt/eslint-config@^11.0.0 \
+    @gudahtt/eslint-config-typescript@^11.0.0 \
     @typescript-eslint/eslint-plugin@^5.42.1 \
     @typescript-eslint/parser@^5.42.1 \
     eslint@^8.27.0 \
@@ -20,7 +20,7 @@ yarn add --dev \
 
 The order in which you extend ESLint rules matters.
 The `@metamask/*` eslint configs should be added to the `extends` array _last_,
-with `@metamask/eslint-config` first, and `@metamask/eslint-config-*` in any
+with `@gudahtt/eslint-config` first, and `@metamask/eslint-config-*` in any
 order thereafter.
 
 ```js
@@ -29,7 +29,7 @@ module.exports = {
 
   extends: [
     // This should be added last unless you know what you're doing.
-    '@metamask/eslint-config',
+    '@gudahtt/eslint-config',
   ],
 
   overrides: [
@@ -37,7 +37,7 @@ module.exports = {
     // non-TypeScript files, so it should be added in an override.
     {
       files: ['*.ts'],
-      extends: ['@metamask/eslint-config-typescript'],
+      extends: ['@gudahtt/eslint-config-typescript'],
     },
   ],
 
