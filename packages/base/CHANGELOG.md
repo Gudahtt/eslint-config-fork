@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.0.1]
+### Uncategorized
+- rename
+- Enable function expressions again ([#258](https://github.com/Gudahtt/eslint-config-fork/pull/258))
+
 ## [11.0.0]
 ### Added
 - **BREAKING:** Enable id-denylist and id-length in base config ([#200](https://github.com/MetaMask/eslint-config/pull/200))
@@ -147,24 +152,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Add base, TypeScript, and Jest configs (#3)
 
-[Unreleased]: https://github.com/MetaMask/eslint-config/compare/v11.0.0...HEAD
-[11.0.0]: https://github.com/MetaMask/eslint-config/compare/v10.0.0...v11.0.0
-[10.0.0]: https://github.com/MetaMask/eslint-config/compare/v9.0.0...v10.0.0
-[9.0.0]: https://github.com/MetaMask/eslint-config/compare/v8.0.0...v9.0.0
-[8.0.0]: https://github.com/MetaMask/eslint-config/compare/v7.0.1...v8.0.0
-[7.0.1]: https://github.com/MetaMask/eslint-config/compare/v7.0.0...v7.0.1
-[7.0.0]: https://github.com/MetaMask/eslint-config/compare/v6.0.0...v7.0.0
-[6.0.0]: https://github.com/MetaMask/eslint-config/compare/v5.0.0...v6.0.0
-[5.0.0]: https://github.com/MetaMask/eslint-config/compare/v4.1.0...v5.0.0
-[4.1.0]: https://github.com/MetaMask/eslint-config/compare/v4.0.0...v4.1.0
-[4.0.0]: https://github.com/MetaMask/eslint-config/compare/v3.2.0...v4.0.0
-[3.2.0]: https://github.com/MetaMask/eslint-config/compare/v3.1.0...v3.2.0
-[3.1.0]: https://github.com/MetaMask/eslint-config/compare/v3.0.0...v3.1.0
-[3.0.0]: https://github.com/MetaMask/eslint-config/compare/v2.2.0...v3.0.0
-[2.2.0]: https://github.com/MetaMask/eslint-config/compare/v2.1.1...v2.2.0
-[2.1.1]: https://github.com/MetaMask/eslint-config/compare/v2.1.0...v2.1.1
-[2.1.0]: https://github.com/MetaMask/eslint-config/compare/v2.0.0...v2.1.0
-[2.0.0]: https://github.com/MetaMask/eslint-config/compare/v1.2.0...v2.0.0
-[1.2.0]: https://github.com/MetaMask/eslint-config/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/MetaMask/eslint-config/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/MetaMask/eslint-config/releases/tag/v1.0.0
+[Unreleased]: https://github.com/Gudahtt/eslint-config-fork/compare/v11.0.1...HEAD
+[11.0.1]: https://github.com/Gudahtt/eslint-config-fork/compare/v11.0.0...v11.0.1
+[11.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v10.0.0...v11.0.0
+[10.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v9.0.0...v10.0.0
+[9.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v8.0.0...v9.0.0
+[8.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v7.0.1...v8.0.0
+[7.0.1]: https://github.com/Gudahtt/eslint-config-fork/compare/v7.0.0...v7.0.1
+[7.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v6.0.0...v7.0.0
+[6.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v5.0.0...v6.0.0
+[5.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v4.1.0...v5.0.0
+[4.1.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v4.0.0...v4.1.0
+[4.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v3.2.0...v4.0.0
+[3.2.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v3.1.0...v3.2.0
+[3.1.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v3.0.0...v3.1.0
+[3.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v2.2.0...v3.0.0
+[2.2.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v2.1.1...v2.2.0
+[2.1.1]: https://github.com/Gudahtt/eslint-config-fork/compare/v2.1.0...v2.1.1
+[2.1.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v2.0.0...v2.1.0
+[2.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v1.2.0...v2.0.0
+[1.2.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/Gudahtt/eslint-config-fork/releases/tag/v1.0.0

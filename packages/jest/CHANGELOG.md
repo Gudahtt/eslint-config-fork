@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.0.1]
+### Uncategorized
+- rename
+
 ## [11.0.0]
 ### Changed
 - **BREAKING:** Bump all ESLint dependencies to the latest version ([#252](https://github.com/MetaMask/eslint-config/pull/252))
@@ -51,10 +55,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - To continue extending this config, install this package and update your `.eslintrc.js` `extends` array to include `@metamask/eslint-config-jest` instead of `@metamask/eslint-config/jest`.
 - Update `eslint` and other ESLint peer dependencies ([#151](https://github.com/MetaMask/eslint-config/pull/151))
 
-[Unreleased]: https://github.com/MetaMask/eslint-config/compare/v11.0.0...HEAD
-[11.0.0]: https://github.com/MetaMask/eslint-config/compare/v10.0.0...v11.0.0
-[10.0.0]: https://github.com/MetaMask/eslint-config/compare/v9.0.0...v10.0.0
-[9.0.0]: https://github.com/MetaMask/eslint-config/compare/v8.0.0...v9.0.0
-[8.0.0]: https://github.com/MetaMask/eslint-config/compare/v7.0.0...v8.0.0
-[7.0.0]: https://github.com/MetaMask/eslint-config/compare/v6.0.0...v7.0.0
-[6.0.0]: https://github.com/MetaMask/eslint-config/releases/tag/v6.0.0
+[Unreleased]: https://github.com/Gudahtt/eslint-config-fork/compare/v11.0.1...HEAD
+[11.0.1]: https://github.com/Gudahtt/eslint-config-fork/compare/v11.0.0...v11.0.1
+[11.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v10.0.0...v11.0.0
+[10.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v9.0.0...v10.0.0
+[9.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v8.0.0...v9.0.0
+[8.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v7.0.0...v8.0.0
+[7.0.0]: https://github.com/Gudahtt/eslint-config-fork/compare/v6.0.0...v7.0.0
+[6.0.0]: https://github.com/Gudahtt/eslint-config-fork/releases/tag/v6.0.0

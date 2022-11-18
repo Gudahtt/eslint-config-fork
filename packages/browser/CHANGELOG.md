@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.0.1]
+### Uncategorized
+- rename
+
 ## [11.0.0]
 ### Added
 - Initial release of this package.
 
-[Unreleased]: https://github.com/MetaMask/eslint-config/compare/v11.0.0...HEAD
-[11.0.0]: https://github.com/MetaMask/eslint-config/releases/tag/v11.0.0
+[Unreleased]: https://github.com/Gudahtt/eslint-config-fork/compare/v11.0.1...HEAD
+[11.0.1]: https://github.com/Gudahtt/eslint-config-fork/compare/v11.0.0...v11.0.1
+[11.0.0]: https://github.com/Gudahtt/eslint-config-fork/releases/tag/v11.0.0
