@@ -17,7 +17,7 @@ yarn add --dev \
     prettier@^2.7.1
 ```
 
-The order in which you extend ESLint rules matters.
+The order in which you e tend ESLint rules matters.
 The `@metamask/*` eslint configs should be added to the `extends` array _last_,
 with `@gudahtt/eslint-config` first, and `@metamask/eslint-config-*` in any
 order thereafter.
