@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [11.0.1]
-### Uncategorized
+### Changed
 - rename
 - Enable function expressions again ([#258](https://github.com/Gudahtt/eslint-config-fork/pull/258))
 
