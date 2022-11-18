@@ -6,10 +6,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [11.0.2]
-### Changed
-- change
-
 ## [11.0.1]
 ### Changed
 - rename
@@ -67,7 +63,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update `eslint` and other ESLint peer dependencies ([#151](https://github.com/MetaMask/eslint-config/pull/151))
 
 [Unreleased]: https://github.com/MetaMask/eslint-config/compare/v11.0.2...HEAD
-[11.0.2]: https://github.com/MetaMask/eslint-config/compare/v11.0.1...v11.0.2
+[11.0.1]: https://github.com/MetaMask/eslint-config/compare/v11.0.1...v11.0.2
 [11.0.1]: https://github.com/MetaMask/eslint-config/compare/v11.0.0...v11.0.1
 [11.0.0]: https://github.com/MetaMask/eslint-config/compare/v10.0.0...v11.0.0
 [10.0.0]: https://github.com/MetaMask/eslint-config/compare/v9.0.0...v10.0.0
